@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 java, python, c#
+🌱 java, javascript, python, c#
 
 🤔 🤔 🤔
 
