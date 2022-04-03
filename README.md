@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **mostlytricks/mostlytricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 working on -> java, spring, c#, python
+🌱 learning -> javascript, react, css
+🌩️ going to do -> move to canada ✈️
 
-🌱 java, javascript, python, c#
 
-🤔 🤔 🤔
 
