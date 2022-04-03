@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 working on -> java, spring, c#, python
+
 🌱 learning -> javascript, react, css
+
 🌩️ going to do -> move to canada ✈️
 
 
