@@ -1,8 +1,8 @@
 # <div align="center">Hi there, I'm Hyeon 👋</div>
 
 <div align="center">
-  <h3>Full-Stack Developer & AI Agent Architect</h3>
-  <p><i>I build the scaffolding that keeps autonomous agents from wandering off into the void.</i></p>
+  <h3>Agentic Systems Engineer</h3>
+  <p><i>I build the infrastructure that keeps autonomous agents from wandering off into the void.</i></p>
 
   <a href="https://www.linkedin.com/in/hyeon-kim-63183b173">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@
 
 <br />
 
-> **Current Focus:** Treating *documentation as an operating system* for AI agents — giving them structure, memory, and guardrails so they ship reliable work instead of confident nonsense.
+> **Current Focus:** *Agentic engineering* — building the systems layer beneath autonomous agents (specs, skill registries, orchestration, and a documentation-as-OS) so they ship reliable work instead of confident nonsense.
 
 ---
 
@@ -68,11 +68,11 @@ Tools I reach for to bring these architectures to life.
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mostlytricks&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostlytricks&hide_border=true&area=true&custom_title=Contribution%20Orbit" alt="Contribution Graph" />
 
 <br /><br />
 
-<sub><i>Architecting autonomous agents that interact seamlessly with scalable web services — and documenting them well enough that Future Me doesn't file a bug report against Past Me.</i></sub>
+<sub><i>Building the systems layer beneath autonomous agents — and documenting it well enough that Future Me doesn't file a bug report against Past Me.</i></sub>
 
 </div>
 
@@ -81,30 +81,30 @@ Tools I reach for to bring these architectures to life.
 
 # 🇰🇷 한국어
 
-# <div align="center">안녕하세요, 김현입니다 👋</div>
+# <div align="center">안녕하세요, 현입니다 👋</div>
 
 <div align="center">
-  <h3>풀스택 개발자 & AI 에이전트 아키텍트</h3>
-  <p><i>자율 에이전트가 우주 미아가 되지 않도록 붙잡아 주는 골격을 만듭니다.</i></p>
+  <h3>에이전틱 시스템 엔지니어</h3>
+  <p><i>자율 에이전트가 우주 미아가 되지 않도록 붙잡아 주는 인프라를 만듭니다.</i></p>
 
   <b><a href="#-what-i-actually-build">English</a> · <a href="#-한국어">한국어</a></b>
 </div>
 
 <br />
 
-> **지금 하는 일:** *문서를 AI 에이전트의 운영체제처럼* 다루는 것 — 구조·메모리·가드레일을 부여해, 에이전트가 그럴듯한 헛소리 대신 신뢰할 수 있는 결과를 내도록 만듭니다.
+> **지금 하는 일:** *에이전틱 엔지니어링* — 자율 에이전트 아래의 시스템 계층(스펙·스킬 레지스트리·오케스트레이션, 그리고 문서-운영체제)을 만들어, 에이전트가 그럴듯한 헛소리 대신 신뢰할 수 있는 결과를 내도록 합니다.
 
 ---
 
 ## 🪐 실제로 만드는 것
 
-제 작업 대부분은 앱보다 한 층 아래에 있습니다. 바로 **AI 에이전트를 믿을 수 있게 만드는 인프라**입니다. 벗어날 수 없는 스펙, 끌어다 쓰는 스킬 레지스트리, 사람이 감독할 수 있는 오케스트레이션 화면, 그리고 수십 개 프로젝트가 자기 엔트로피에 무너지지 않게 잡아 주는 문서 시스템.
+제 작업 대부분은 앱보다 한 층 아래에 있습니다. 관심을 두는 곳은 **AI 에이전트를 믿을 수 있게 만드는 인프라**입니다. 벗어날 수 없는 스펙, 끌어다 쓰는 스킬 레지스트리, 사람이 감독할 수 있는 오케스트레이션 화면, 그리고 수십 개 프로젝트가 자기 엔트로피에 무너지지 않게 잡아 주는 문서 시스템.
 
-프로젝트 이름을 천체에서 따오는 버릇이 있습니다 — "하나의 시스템과 그 주위를 도는 함대"라는 구조에 딱 맞기도 하고, `utils-final-FINAL-v2` 같은 이름은 도무지 정이 안 가서요. 🌌
+프로젝트 이름을 천체에서 가져오고 있습니다 — "하나의 시스템과 그 주위를 도는 함대"라는 구조에 딱 맞기도 하고, `utils-final-FINAL-v2` 같은 이름은 도무지 정이 안 가서요. 🌌
 
 ## 🛰️ 함대 (The Fleet)
 
-| 프로젝트 | 무엇인가 |
+| 프로젝트 | details |
 | :--- | :--- |
 | **[gravity](https://github.com/mostlytricks/ai-workspace)** | AI 코딩 에이전트를 위한 *문서-운영체제*. 버전 관리되는 규약, 도메인별 스펙, 장수 프로젝트를 일관되게 유지하는 슬래시 커맨드. 나머지 모두가 공전하는 별. |
 | **[sol](https://github.com/mostlytricks/sol)** | 로컬 코딩 에이전트를 감독하는 데스크톱 관제 화면 (Electron + React) — 보드, 어댑터, MCP/스킬/메모리 패널. |
@@ -131,6 +131,6 @@ Tools I reach for to bring these architectures to life.
 
 <div align="center">
 
-<sub><i>확장 가능한 웹 서비스와 매끄럽게 연동되는 자율 에이전트를 설계합니다 — 그리고 미래의 제가 과거의 저에게 버그 리포트를 제출하지 않을 만큼 잘 문서화합니다.</i></sub>
+<sub><i>자율 에이전트 아래의 시스템 계층을 만듭니다 — 그리고 미래의 제가 과거의 저에게 버그 리포트를 제출하지 않을 만큼 잘 문서화합니다.</i></sub>
 
 </div>
